@@ -1,5 +1,9 @@
 # EmotionClassification
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f98ff5da-8f77-4f83-ac27-d063377171e0"/>
+</p>
+
 Fine-tuned BERTurk model for **Turkish emotion classification** (6 emotions) — training notebook, reusable source modules, and a Gradio app.
 
 🤗 **Model:** [furkankarakuz/turkish-emotion-classifier](https://huggingface.co/furkankarakuz/turkish-emotion-classifier)
