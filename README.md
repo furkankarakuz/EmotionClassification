@@ -1,4 +1,4 @@
-# EmotionClassification
+# TurkishEmotionClassification
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f98ff5da-8f77-4f83-ac27-d063377171e0"/>
